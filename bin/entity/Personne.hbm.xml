@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 30 nov. 2019 21:12:32 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="entity.Personne" table="personne">
+        <id name="id" type="int" column="id">
+            
+            <generator class="increment" />
+        </id>
+        <property name="nom" type="java.lang.String">
+            <column name="nom" />
+        </property>
+        <property name="prenom" type="java.lang.String">
+            <column name="prenom" />
+        </property>
+        <property name="tel" type="int">
+            <column name="TEL" />
+        </property>
+    </class>
+</hibernate-mapping>

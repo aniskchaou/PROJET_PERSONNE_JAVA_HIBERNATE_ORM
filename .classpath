@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/asm.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/gson-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/jta.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/FIRST_EJB/lib/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
